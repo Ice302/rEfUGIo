@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>REFUGIO Portfolio</title>
+    <meta name="description" content="Portfolio of graphic design, photography and websites." />
+    <meta name="theme-color" content="#d9d9d4" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23e5121e'/%3E%3Cpath d='M9 26V6h11l4 4v5l-4 4H9m9 0 6 7' fill='none' stroke='%23111110' stroke-width='5'/%3E%3C/svg%3E" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="REFUGIO Portfolio" />
+    <meta property="og:description" content="Graphic design, photography and websites, carried by a race car, an airliner and a cruise ship." />
+    <meta property="og:image" content="og.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+  </head>
+  <body data-hud="ink">
+    <a class="skip" href="#simple" data-simple>Switch to the simple version, with no motion</a>
+    <div id="loader" aria-hidden="true"></div>
+    <header id="hud" class="hud"></header>
+    <aside id="ruler" class="ruler" aria-hidden="true"></aside>
+    <div id="cross" class="cross" aria-hidden="true"><span class="mono"></span><b></b></div>
+
+    <main id="scenes">
+      <section class="scene" id="departure" aria-label="Departure"></section>
+      <section class="scene" id="manifest" aria-label="Introduction and contents"></section>
+      <section class="scene" id="fleet" aria-label="Fleet overview"></section>
+      <section class="scene" id="road" aria-label="Graphic design cover"></section>
+      <section class="scene" id="stamps" aria-label="Graphic design work"></section>
+      <section class="scene" id="wheel" aria-label="Business card showroom"></section>
+      <section class="scene" id="sleeve" aria-label="Printed sleeve showroom"></section>
+      <section class="scene" id="freight" aria-label="Typographic freight wagons"></section>
+      <section class="scene" id="margin" aria-label="Margin poster strips"></section>
+      <section class="scene" id="planner" aria-label="Stationery system, and how a project runs"></section>
+      <section class="scene" id="air" aria-label="Photography"></section>
+      <section class="scene" id="wall" aria-label="Websites"></section>
+      <section class="scene" id="voyage" aria-label="The cruise ship, under way"></section>
+      <section class="scene" id="harbor" aria-label="Website project browser"></section>
+      <section class="scene" id="rooms" aria-label="Showpiece rooms"></section>
+      <section class="scene" id="reel" aria-label="Featured reel"></section>
+      <section class="scene" id="boarding" aria-label="Contact"></section>
+    </main>
+
+    <canvas id="wipe" aria-hidden="true"></canvas>
+    <canvas id="gl" aria-hidden="true"></canvas>
+    <div id="transit" aria-hidden="true"></div>
+    <div id="scan" aria-hidden="true"></div>
+    <svg id="leaders" aria-hidden="true"></svg>
+    <div id="popups" class="callouts"></div>
+    <div id="telemetry" aria-hidden="true"></div>
+    <div id="case" role="dialog" aria-modal="true" aria-label="Project details" hidden></div>
+    <div id="route" role="dialog" aria-modal="true" aria-label="Route map of the whole site" hidden></div>
+    <div id="room-view" class="rv" role="dialog" aria-modal="true" aria-label="Showpiece room" hidden></div>
+    <div id="retro" aria-hidden="true"></div>
+    <div id="spacer"></div>
+
+    <noscript><p style="padding: 2rem; font-family: monospace; background: #fff; color: #111">This portfolio of graphic design, photography and websites needs JavaScript to show its work. Please turn it on, or get in touch by email.</p></noscript>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

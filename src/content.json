@@ -1,0 +1,1312 @@
+{
+  "site": {
+    "name": "REFUGIO",
+    "email": "hello@example.com",
+    "year": 2026,
+    "line": "Graphic design, photography and websites."
+  },
+  "sections": {
+    "departure": {
+      "title": "Departure",
+      "card": null,
+      "tone": "#d9d9d4",
+      "line": "Start"
+    },
+    "manifest": {
+      "title": "Manifest",
+      "card": null,
+      "tone": "#e7e3d7",
+      "line": "Start"
+    },
+    "fleet": {
+      "title": "Fleet",
+      "card": {
+        "title": "FLEET",
+        "code": "S.02 / Three units on the line"
+      },
+      "tone": "#f4f3ee",
+      "line": "Start"
+    },
+    "road": {
+      "title": "Road",
+      "card": {
+        "title": "ROAD",
+        "code": "R-01 / Graphic design"
+      },
+      "tone": "#f4f3ee",
+      "line": "Road"
+    },
+    "stamps": {
+      "title": "Stamps",
+      "card": {
+        "title": "ISSUED",
+        "code": "R-01 / Six stamps"
+      },
+      "tone": "#000000",
+      "line": "Road"
+    },
+    "wheel": {
+      "title": "Card Wheel",
+      "card": {
+        "title": "CARDS",
+        "code": "R-01 / Eight cards"
+      },
+      "tone": "#e6e7ea",
+      "line": "Road"
+    },
+    "sleeve": {
+      "title": "Sleeves",
+      "card": {
+        "title": "SLEEVE",
+        "code": "R-01 / Print and packaging"
+      },
+      "tone": "#000000",
+      "line": "Road"
+    },
+    "freight": {
+      "title": "Freight",
+      "card": {
+        "title": "FREIGHT",
+        "code": "R-01 / Type on the move"
+      },
+      "tone": "#2a2a2c",
+      "line": "Road"
+    },
+    "margin": {
+      "title": "Margin",
+      "card": {
+        "title": "MARGIN",
+        "code": "R-01 / Four strips"
+      },
+      "tone": "#000000",
+      "line": "Road"
+    },
+    "planner": {
+      "title": "Planner",
+      "card": {
+        "title": "SHEETS",
+        "code": "R-01 / How a project runs"
+      },
+      "tone": "#9a9a97",
+      "line": "Road"
+    },
+    "air": {
+      "title": "Photography",
+      "card": {
+        "title": "AIR",
+        "code": "A-02 / Photography"
+      },
+      "tone": "#d9d9d4",
+      "line": "Air"
+    },
+    "wall": {
+      "title": "Websites",
+      "card": {
+        "title": "SEA",
+        "code": "S-03 / Websites"
+      },
+      "tone": "#f4f3ee",
+      "line": "Sea"
+    },
+    "voyage": {
+      "title": "Voyage",
+      "card": {
+        "title": "WAKE",
+        "code": "S-03 / The ship, under way"
+      },
+      "tone": "#0a3fdb",
+      "line": "Sea"
+    },
+    "harbor": {
+      "title": "Harbour",
+      "card": {
+        "title": "BOARD",
+        "code": "S-03 / Site browser"
+      },
+      "tone": "#8d8f8c",
+      "line": "Sea"
+    },
+    "rooms": {
+      "title": "Rooms",
+      "card": {
+        "title": "ROOMS",
+        "code": "Showpiece / Three rooms"
+      },
+      "tone": "#111110",
+      "line": "Rooms"
+    },
+    "reel": {
+      "title": "Reel",
+      "card": {
+        "title": "REEL",
+        "code": "Terminal / Three finalists"
+      },
+      "tone": "#e7e3d7",
+      "line": "Terminal"
+    },
+    "boarding": {
+      "title": "Boarding",
+      "card": {
+        "title": "GATE",
+        "code": "Terminal / Start a project"
+      },
+      "tone": "#a4a4a0",
+      "line": "Terminal"
+    }
+  },
+  "units": [
+    {
+      "key": "road",
+      "color": "#e5121e",
+      "colorInk": "#f4f3ee",
+      "scene": "road",
+      "code": "R-01",
+      "label": "Road",
+      "discipline": "Graphic Design",
+      "model": "car",
+      "weight": 1.42,
+      "title": [
+        "Road Unit",
+        "Graphic Design"
+      ],
+      "intro": "Identity, poster and editorial work, built the way a Group 5 racer was built: everything on the surface has a job, and anything without one comes off.",
+      "sub": [
+        "Track-Built",
+        "Visual Systems"
+      ],
+      "mono": "Identity systems and print that stay legible at speed, from a stadium poster to a phone crop.",
+      "foot": [
+        "Legible at",
+        "Racing Speed"
+      ],
+      "boxes": [
+        {
+          "eyebrow": "Reads at speed",
+          "title": "Livery",
+          "body": "Identities that hold up at a glance, on any surface they land on."
+        },
+        {
+          "eyebrow": "No spare weight",
+          "title": "Grid",
+          "body": "Layouts cut down to what the message needs, then set with care."
+        }
+      ],
+      "table": [
+        [
+          "Power",
+          "750 HP",
+          "High-contrast identity"
+        ],
+        [
+          "Mass",
+          "1,025 KG",
+          "Nothing spare on the page"
+        ],
+        [
+          "Top speed",
+          "350 KM/H",
+          "Legible in motion"
+        ],
+        [
+          "Engine",
+          "TWIN TURBO",
+          "Two ideas, working together"
+        ],
+        [
+          "Drive",
+          "RWD, 4-SPEED",
+          "Systems, then applications"
+        ],
+        [
+          "Record",
+          "LE MANS 1979",
+          "Built to last the distance"
+        ]
+      ],
+      "callouts": [
+        {
+          "slot": "tl",
+          "label": "Rear wing",
+          "note": "Balance set by hand, as hierarchy is on a page.",
+          "at": [
+            -0.88,
+            0.86,
+            0.3
+          ],
+          "part": "Body_Main_Shader"
+        },
+        {
+          "slot": "ml",
+          "label": "Rear arch",
+          "note": "Bodywork stretched over the mechanicals. The look comes from the job.",
+          "at": [
+            -0.36,
+            -0.2,
+            1
+          ],
+          "part": "Body_Main_Shader"
+        },
+        {
+          "slot": "bl",
+          "label": "Sill",
+          "note": "Keeps the air where it belongs. Margins do the same.",
+          "at": [
+            0.1,
+            -0.78,
+            0.9
+          ],
+          "part": "Body_Main_Shader"
+        },
+        {
+          "slot": "tr",
+          "label": "Cockpit",
+          "note": "One seat. One message at a time.",
+          "at": "center",
+          "part": "Windows_Glass"
+        },
+        {
+          "slot": "mr",
+          "label": "Front wheel",
+          "note": "Rolls with your scroll, and steers with your pointer.",
+          "at": "center",
+          "part": "Wheels_RIM_fl"
+        },
+        {
+          "slot": "br",
+          "label": "Nose",
+          "note": "First surface to meet the air. The headline of the car.",
+          "at": [
+            1,
+            -0.62,
+            0.3
+          ],
+          "part": "Body_Main_Shader"
+        }
+      ]
+    },
+    {
+      "key": "air",
+      "color": "#0a3fdb",
+      "colorInk": "#f4f3ee",
+      "scene": "air",
+      "code": "A-02",
+      "label": "Air",
+      "discipline": "Photography",
+      "model": "plane",
+      "weight": 0.2,
+      "title": [
+        "Air Unit",
+        "Photography"
+      ],
+      "intro": "Travel, motorsport and quiet-place photography. Work from altitude: step far enough back to see the whole shape, then wait for the light to cross it.",
+      "sub": [
+        "Long-Range",
+        "Observation"
+      ],
+      "mono": "Frames made from a distance and from inside the machine, with the patience of a long-haul flight.",
+      "foot": [
+        "Light Found",
+        "at Altitude"
+      ],
+      "boxes": [
+        {
+          "eyebrow": "Stand further back",
+          "title": "Altitude",
+          "body": "Distance first, so the frame holds the whole shape of the place."
+        },
+        {
+          "eyebrow": "Wait for it",
+          "title": "Exposure",
+          "body": "Last light, first light, and whatever crosses the frame between them."
+        }
+      ],
+      "table": [
+        [
+          "Length",
+          "62.8 M",
+          "Wide frames"
+        ],
+        [
+          "Wingspan",
+          "60.1 M",
+          "Horizon to horizon"
+        ],
+        [
+          "Cruise",
+          "MACH 0.85",
+          "Patience at speed"
+        ],
+        [
+          "Ceiling",
+          "13,100 M",
+          "Distance before detail"
+        ],
+        [
+          "Range",
+          "14,100 KM",
+          "Long projects, far places"
+        ],
+        [
+          "Seats",
+          "290 TYPICAL",
+          "Every seat is a viewfinder"
+        ]
+      ],
+      "callouts": [
+        {
+          "slot": "tl",
+          "label": "Tail fin",
+          "note": "Keeps the frame from drifting.",
+          "at": [
+            -0.92,
+            0.9,
+            0
+          ],
+          "part": "Object_45_Material_001"
+        },
+        {
+          "slot": "ml",
+          "label": "Wing tip",
+          "note": "A small detail at the very edge of the frame.",
+          "at": [
+            -0.39,
+            -0.1,
+            1
+          ],
+          "part": "Object_23_material05"
+        },
+        {
+          "slot": "bl",
+          "label": "Wing",
+          "note": "Holds the horizon level while everything else moves.",
+          "at": "center",
+          "part": "Object_33_Material_003"
+        },
+        {
+          "slot": "tr",
+          "label": "Turbofan",
+          "note": "Long lens energy: quiet, steady, far away.",
+          "at": "center",
+          "part": "Object_5_Material_004"
+        },
+        {
+          "slot": "mr",
+          "label": "Cabin",
+          "note": "One small viewfinder per seat.",
+          "at": "center",
+          "part": "Object_27_Material_006"
+        },
+        {
+          "slot": "br",
+          "label": "Radome",
+          "note": "Reads the weather ahead. So does a location scout.",
+          "at": "center",
+          "part": "Object_13_Material_007"
+        }
+      ]
+    },
+    {
+      "key": "sea",
+      "color": "#ffc60a",
+      "colorInk": "#111110",
+      "scene": "wall",
+      "code": "S-03",
+      "label": "Sea",
+      "discipline": "Websites",
+      "model": "ship",
+      "weight": 0.86,
+      "title": [
+        "Sea Unit",
+        "Websites"
+      ],
+      "intro": "Design and build for sites that carry a lot of people at once. Sturdy under the waterline, generous on deck, and easy to find your way around.",
+      "sub": [
+        "Many Decks,",
+        "One Vessel"
+      ],
+      "mono": "Marketing sites and product surfaces, designed and built end to end, with the engine room in good order.",
+      "foot": [
+        "Easy to",
+        "Navigate"
+      ],
+      "boxes": [
+        {
+          "eyebrow": "Layered builds",
+          "title": "Decks",
+          "body": "Interfaces stacked so each level is simple and the whole stays stable."
+        },
+        {
+          "eyebrow": "Hold a heading",
+          "title": "Course",
+          "body": "Navigation that always tells people where they are and what comes next."
+        }
+      ],
+      "table": [
+        [
+          "Length",
+          "310.7 M",
+          "Large sites, small pages"
+        ],
+        [
+          "Decks",
+          "12",
+          "Layered, never tangled"
+        ],
+        [
+          "Tonnage",
+          "80,774 GRT",
+          "Carries real traffic"
+        ],
+        [
+          "Trial speed",
+          "32.84 KN",
+          "Fast, and steady"
+        ],
+        [
+          "Passengers",
+          "2,139",
+          "Accessible to everyone aboard"
+        ],
+        [
+          "Beam",
+          "36 M",
+          "Stable under load"
+        ]
+      ],
+      "callouts": [
+        {
+          "slot": "tl",
+          "label": "Funnels",
+          "note": "Where the heavy work happens, kept out of the way.",
+          "at": "center",
+          "part": "Color_B01_3"
+        },
+        {
+          "slot": "ml",
+          "label": "Stern",
+          "note": "Empty states and error pages, ready when needed.",
+          "at": [
+            -1,
+            -0.32,
+            0.5
+          ],
+          "part": "HULL_1"
+        },
+        {
+          "slot": "bl",
+          "label": "Hull",
+          "note": "Infrastructure nobody sees: semantic, fast, stable.",
+          "at": [
+            -0.1,
+            -0.38,
+            0.92
+          ],
+          "part": "HULL_1"
+        },
+        {
+          "slot": "tr",
+          "label": "Upper deck",
+          "note": "The part everyone screenshots.",
+          "at": "center",
+          "part": "0128_White_3"
+        },
+        {
+          "slot": "mr",
+          "label": "Forward mast",
+          "note": "Navigation that tells you where you are.",
+          "at": [
+            0.68,
+            0.6,
+            0
+          ],
+          "part": "barrel_2_DefaultMaterial_3"
+        },
+        {
+          "slot": "br",
+          "label": "Bow",
+          "note": "Holds its course through the first page load.",
+          "at": [
+            1,
+            -0.2,
+            0
+          ],
+          "part": "HULL_1"
+        }
+      ]
+    }
+  ],
+  "graphics": [
+    {
+      "id": "grid-walk",
+      "title": "Grid Walk",
+      "type": "Identity system",
+      "year": 2026,
+      "kanji": "車",
+      "color": "racing",
+      "emblem": "wings",
+      "spec": [
+        "Format",
+        "Identity"
+      ],
+      "text": "A race-weekend identity built from timing screens and pit-wall signage. Sample entry: replace with your own project.",
+      "sample": true
+    },
+    {
+      "id": "flight-level",
+      "title": "Flight Level",
+      "type": "Poster series",
+      "year": 2026,
+      "kanji": "翼",
+      "color": "blue",
+      "emblem": "chevrons",
+      "spec": [
+        "Format",
+        "A1 Poster"
+      ],
+      "text": "Six posters drawn from airline route maps and altimeter faces. Sample entry: replace with your own project.",
+      "sample": true
+    },
+    {
+      "id": "harbour-lights",
+      "title": "Harbour Lights",
+      "type": "Packaging",
+      "year": 2025,
+      "kanji": "船",
+      "color": "red",
+      "emblem": "wave",
+      "spec": [
+        "Format",
+        "Packaging"
+      ],
+      "text": "Packaging for a small-batch tea, set like shipping manifests. Sample entry: replace with your own project.",
+      "sample": true
+    },
+    {
+      "id": "line-work",
+      "title": "Line Work",
+      "type": "Type specimen",
+      "year": 2025,
+      "kanji": "線",
+      "color": "yellow",
+      "emblem": "bars",
+      "spec": [
+        "Format",
+        "Specimen"
+      ],
+      "text": "A specimen for a monoline display face, printed in a single ink. Sample entry: replace with your own project.",
+      "sample": true
+    },
+    {
+      "id": "aperture",
+      "title": "Aperture",
+      "type": "Editorial",
+      "year": 2024,
+      "kanji": "光",
+      "color": "bone",
+      "emblem": "aperture",
+      "spec": [
+        "Format",
+        "Editorial"
+      ],
+      "text": "Art direction for a small photography journal. Sample entry: replace with your own project.",
+      "sample": true
+    },
+    {
+      "id": "motion-index",
+      "title": "Motion Index",
+      "type": "Motion identity",
+      "year": 2024,
+      "kanji": "動",
+      "color": "ink",
+      "emblem": "route",
+      "spec": [
+        "Format",
+        "Motion"
+      ],
+      "text": "An identity that only exists when it moves. Sample entry: replace with your own project.",
+      "sample": true
+    }
+  ],
+  "wheelCards": [
+    {
+      "style": "black",
+      "label": "Width Black",
+      "note": "Type system",
+      "sample": true
+    },
+    {
+      "style": "red",
+      "label": "I Want To",
+      "note": "Campaign",
+      "sample": true
+    },
+    {
+      "style": "lime",
+      "label": "Easy",
+      "note": "Wordmark",
+      "sample": true
+    },
+    {
+      "style": "green",
+      "label": "Scribble",
+      "note": "Lettering",
+      "sample": true
+    },
+    {
+      "style": "white",
+      "label": "Open Reference",
+      "note": "Conference",
+      "sample": true
+    },
+    {
+      "style": "blue",
+      "label": "Meridian",
+      "note": "Identity",
+      "sample": true
+    },
+    {
+      "style": "photo",
+      "label": "Profile",
+      "note": "Portrait series",
+      "sample": true
+    },
+    {
+      "style": "grey",
+      "label": "Letter",
+      "note": "Specimen",
+      "sample": true
+    }
+  ],
+  "sleeves": [
+    {
+      "title": [
+        "NITE",
+        "FREIGHT"
+      ],
+      "wave": "Wave One",
+      "artist": [
+        "SAMPLE",
+        "RECORDINGS"
+      ],
+      "list": "Playlist: Night Line",
+      "blurb": "Slow, grey music for last trains and empty platforms. Sample sleeve.",
+      "year": 2026,
+      "code": "OP49",
+      "mm": "MM#03",
+      "c": [
+        "#ffc60a",
+        "#0a3fdb",
+        "#6d93f5"
+      ]
+    },
+    {
+      "title": [
+        "LOW",
+        "ORBIT"
+      ],
+      "wave": "Wave Two",
+      "artist": [
+        "SAMPLE",
+        "RECORDINGS"
+      ],
+      "list": "Playlist: Ground Track",
+      "blurb": "Long tones and telemetry for the part of the night with no signal. Sample sleeve.",
+      "year": 2026,
+      "code": "OP50",
+      "mm": "MM#04",
+      "c": [
+        "#e5121e",
+        "#ffc60a",
+        "#ffe16a"
+      ]
+    },
+    {
+      "title": [
+        "DRY",
+        "DOCK"
+      ],
+      "wave": "Wave Three",
+      "artist": [
+        "SAMPLE",
+        "RECORDINGS"
+      ],
+      "list": "Playlist: Slipway",
+      "blurb": "Metal, water and patience, recorded where ships get repaired. Sample sleeve.",
+      "year": 2025,
+      "code": "OP51",
+      "mm": "MM#05",
+      "c": [
+        "#0a3fdb",
+        "#e5121e",
+        "#ff6a70"
+      ]
+    }
+  ],
+  "wagons": [
+    {
+      "color": "red",
+      "big": "Kern",
+      "no": [
+        "09",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "tag": "IKSD-23",
+      "mark": "N°2",
+      "sub": "Type system",
+      "word": "Composite",
+      "mid": "MJ",
+      "chip": "E46"
+    },
+    {
+      "color": "ink",
+      "big": "Shunt",
+      "no": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "tag": "MRG-2",
+      "mark": "R7",
+      "sub": "Identity",
+      "word": "Bulk modulus",
+      "mid": "TSI",
+      "chip": "Limit"
+    },
+    {
+      "color": "white",
+      "big": "Railway",
+      "no": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "tag": "MBG23-4",
+      "mark": "CE",
+      "sub": "Editorial",
+      "word": "Mechanics",
+      "mid": "Alpha",
+      "chip": "Melt A"
+    },
+    {
+      "color": "white",
+      "big": "Freight",
+      "no": [
+        "93",
+        "94",
+        "95",
+        "96",
+        "97"
+      ],
+      "tag": "EN12663-2",
+      "mark": "B",
+      "sub": "Signage",
+      "word": "Structural",
+      "mid": "Beta",
+      "chip": "Neue"
+    }
+  ],
+  "sheets": [
+    {
+      "n": "01",
+      "name": "Review",
+      "tint": "#efe8d8",
+      "ink": "#a8503a",
+      "kind": "review"
+    },
+    {
+      "n": "02",
+      "name": "Brief",
+      "tint": "#d5dadb",
+      "ink": "#a8503a",
+      "kind": "lines"
+    },
+    {
+      "n": "03",
+      "name": "Diary",
+      "tint": "#e6dade",
+      "ink": "#6a4a68",
+      "kind": "grid"
+    },
+    {
+      "n": "04",
+      "name": "Checklist",
+      "tint": "#f3deae",
+      "ink": "#47625a",
+      "kind": "check"
+    },
+    {
+      "n": "05",
+      "name": "Budget",
+      "tint": "#f2d6d3",
+      "ink": "#a84a48",
+      "kind": "table"
+    },
+    {
+      "n": "06",
+      "name": "Travel plan",
+      "tint": "#cfe3da",
+      "ink": "#2e5a68",
+      "kind": "route"
+    },
+    {
+      "n": "07",
+      "name": "Monthly plan",
+      "tint": "#f4c9b7",
+      "ink": "#a84a48",
+      "kind": "month"
+    },
+    {
+      "n": "08",
+      "name": "Weekly plan",
+      "tint": "#ebeae6",
+      "ink": "#4a668a",
+      "kind": "week"
+    },
+    {
+      "n": "09",
+      "name": "Daily plan",
+      "tint": "#c9d3c0",
+      "ink": "#47625a",
+      "kind": "day"
+    },
+    {
+      "n": "10",
+      "name": "Deliverables",
+      "tint": "#f5efdf",
+      "ink": "#47625a",
+      "kind": "table"
+    },
+    {
+      "n": "11",
+      "name": "Memo",
+      "tint": "#dde0ea",
+      "ink": "#3d5a80",
+      "kind": "memo"
+    },
+    {
+      "n": "12",
+      "name": "Record",
+      "tint": "#f8f2ea",
+      "ink": "#7a5a48",
+      "kind": "record"
+    }
+  ],
+  "photos": [
+    {
+      "src": "photos/ph-01.jpg",
+      "title": "Last Light, Wing",
+      "place": "Above the coast",
+      "exif": "35 mm, f/8, 1/500",
+      "sample": true
+    },
+    {
+      "src": "photos/ph-02.jpg",
+      "title": "Wake",
+      "place": "Open water",
+      "exif": "50 mm, f/5.6, 1/1000",
+      "sample": true
+    },
+    {
+      "src": "photos/ph-03.jpg",
+      "title": "Pit Straight",
+      "place": "Grand prix circuit",
+      "exif": "200 mm, f/4, 1/60",
+      "sample": true
+    },
+    {
+      "src": "photos/ph-04.jpg",
+      "title": "Cranes in Fog",
+      "place": "Container port",
+      "exif": "85 mm, f/2.8, 1/125",
+      "sample": true
+    },
+    {
+      "src": "photos/ph-05.jpg",
+      "title": "Ridgelines",
+      "place": "Dawn, inland",
+      "exif": "135 mm, f/8, 1/250",
+      "sample": true
+    },
+    {
+      "src": "photos/ph-06.jpg",
+      "title": "Gate C-4",
+      "place": "Terminal window",
+      "exif": "28 mm, f/2, 1/30",
+      "sample": true
+    },
+    {
+      "src": "photos/ph-07.jpg",
+      "title": "Long Exposure",
+      "place": "Night stage",
+      "exif": "35 mm, f/11, 30 s",
+      "sample": true
+    },
+    {
+      "src": "photos/ph-08.jpg",
+      "title": "Grid at Dusk",
+      "place": "On approach",
+      "exif": "50 mm, f/2.8, 1/250",
+      "sample": true
+    },
+    {
+      "src": "photos/ph-09.jpg",
+      "title": "Hull Study",
+      "place": "Dry dock",
+      "exif": "35 mm, f/5.6, 1/250",
+      "sample": true
+    }
+  ],
+  "sites": [
+    {
+      "id": "tidewater",
+      "sample": true,
+      "layout": "tidewater",
+      "name": "Tidewater",
+      "kind": "Fleet operator",
+      "status": "Live",
+      "date": "Launched May 2026",
+      "stack": [
+        "Astro",
+        "GSAP",
+        "Sanity"
+      ],
+      "head": [
+        "CARRIED",
+        "ACROSS",
+        "WATER"
+      ],
+      "text": "A site for a shipping fleet, with live vessel positions and a chartering flow. Sample entry: replace with your own project.",
+      "image": "photos/ph-09.jpg",
+      "url": "#"
+    },
+    {
+      "id": "kilo-fifty",
+      "sample": true,
+      "layout": "kilo-fifty",
+      "name": "Kilo Fifty",
+      "kind": "Motorsport parts store",
+      "status": "Live",
+      "date": "Launched Feb 2026",
+      "stack": [
+        "Next.js",
+        "Shopify",
+        "Three.js"
+      ],
+      "head": [
+        "PARTS",
+        "AT TRACK",
+        "SPEED"
+      ],
+      "text": "A storefront where every part can be turned over in 3D before it is bought. Sample entry: replace with your own project.",
+      "image": "photos/ph-03.jpg",
+      "url": "#"
+    },
+    {
+      "id": "altitude",
+      "sample": true,
+      "layout": "altitude",
+      "name": "Altitude Archive",
+      "kind": "Travel journal",
+      "status": "In build",
+      "date": "Launching Q1 2027",
+      "stack": [
+        "SvelteKit",
+        "Mapbox",
+        "WebGL"
+      ],
+      "head": [
+        "ROUTES",
+        "WORTH",
+        "KEEPING"
+      ],
+      "text": "A long-form journal indexed by flight path instead of date. Sample entry: replace with your own project.",
+      "image": "photos/ph-05.jpg",
+      "url": "#"
+    }
+  ],
+  "lobby": {
+    "kicker": "Showpiece / Three rooms",
+    "title": [
+      "Showpiece",
+      "Rooms"
+    ],
+    "intro": "Three characters, each with a room of their own and a wall of posters behind them. Pick a room to step inside.",
+    "status": "Rooms open",
+    "hint": "Choose a room"
+  },
+  "rooms": {
+    "frieren": {
+      "code": "Room 01",
+      "kana": "フリーレン",
+      "wall": "FRIEREN",
+      "name": "Frieren",
+      "series": "Frieren: Beyond Journey's End",
+      "creator": "Kanehito Yamada and Tsukasa Abe",
+      "image": "art/frieren.webp",
+      "alt": "Painted fan art of Frieren in profile, in a white and gold robe, with silver hair, a red staff and violet streaks",
+      "credit": "Artwork by @mou_art. Character by Kanehito Yamada and Tsukasa Abe.",
+      "stages": [
+        "An elf mage for whom a decade is a short walk. The room stays dark so she does not have to hurry.",
+        "Painted in thick strokes, backlit, with the white robe doing most of the work. Violet streaks run where the wind goes.",
+        "The long road, in one frame: everyone else is gone, and she is only now learning what the time meant."
+      ],
+      "posters": [
+        {
+          "title": "The Long Road",
+          "line": "Ten years, one party",
+          "tone": "#8a6bd1",
+          "layout": "portrait",
+          "image": ""
+        },
+        {
+          "title": "A Decade Is a Short Walk",
+          "line": "Room 01 / Poster 02",
+          "tone": "#e9e2cf",
+          "layout": "type",
+          "image": ""
+        },
+        {
+          "title": "Field of Flowers",
+          "line": "The spell she always keeps",
+          "tone": "#5b3e9e",
+          "layout": "bloom",
+          "image": ""
+        },
+        {
+          "title": "After the Journey",
+          "line": "What the time meant",
+          "tone": "#0d0a10",
+          "layout": "moon",
+          "image": ""
+        },
+        {
+          "title": "Grimoire",
+          "line": "Collected, never hurried",
+          "tone": "#c9a24a",
+          "layout": "split",
+          "image": ""
+        },
+        {
+          "title": "Moon Over the Pass",
+          "line": "Night walk, north road",
+          "tone": "#3b2f6b",
+          "layout": "portrait",
+          "image": ""
+        }
+      ],
+      "feature": {
+        "title": "Grimoire",
+        "note": "Three spells from a collection that took centuries. Cast one.",
+        "items": [
+          "Field of flowers",
+          "Light the path",
+          "Let a decade pass"
+        ]
+      }
+    },
+    "emma": {
+      "code": "Room 02",
+      "kana": "エマ",
+      "wall": "EMMA",
+      "name": "Emma",
+      "series": "Veil",
+      "creator": "Kotteri",
+      "image": "art/emma.webp",
+      "alt": "Ink drawing of two women in long black clothes, one in a cape and one in a dress with a dotted hem, eyes lowered",
+      "credit": "Artwork as supplied, signed and dated 2020.03.28. Character by Kotteri.",
+      "stages": [
+        "Eyes closed, never lost. She takes the calls for the police station, so the room is a telephone exchange.",
+        "Black ink scratched back to paper. The hatching follows every fold, and the hem is nothing but pinpricks.",
+        "Patch cords run across the board as you move in. She connects the city without ever having to look at it."
+      ],
+      "posters": [
+        {
+          "title": "Line Four",
+          "line": "Calls taken after dark",
+          "tone": "#f2e7d0",
+          "layout": "type",
+          "image": ""
+        },
+        {
+          "title": "The Exchange",
+          "line": "Every cord, one city",
+          "tone": "#15100b",
+          "layout": "portrait",
+          "image": ""
+        },
+        {
+          "title": "Eyes Closed",
+          "line": "Never lost",
+          "tone": "#d8ccb2",
+          "layout": "split",
+          "image": ""
+        },
+        {
+          "title": "Night Call",
+          "line": "The board lights up",
+          "tone": "#2b2219",
+          "layout": "moon",
+          "image": ""
+        },
+        {
+          "title": "Ink and Paper",
+          "line": "Scratched back to white",
+          "tone": "#f6f0e2",
+          "layout": "bloom",
+          "image": ""
+        },
+        {
+          "title": "Hold the Line",
+          "line": "Room 02 / Poster 06",
+          "tone": "#4a3d2e",
+          "layout": "portrait",
+          "image": ""
+        }
+      ],
+      "feature": {
+        "title": "Switchboard",
+        "note": "Calls come in on the lit jacks. Take one and patch it through.",
+        "items": [
+          "Line one",
+          "Line two",
+          "Line three",
+          "Line four",
+          "Line five",
+          "Line six"
+        ]
+      }
+    },
+    "mitsuki": {
+      "code": "Room 03",
+      "kana": "ミツキ",
+      "wall": "MITSUKI",
+      "name": "Mitsuki Koga",
+      "series": "The Guy She Was Interested in Wasn't a Guy at All (Green Yuri)",
+      "creator": "Sumiko Arai",
+      "image": "art/mitsuki.webp",
+      "alt": "Fan art of Mitsuki Koga in profile, wearing white headphones and looking at her phone, with an electric guitar slung over her shoulder",
+      "credit": "Artwork by @aoedeart. Character by Sumiko Arai.",
+      "stages": [
+        "Quiet at school, unmistakable behind the counter. The room is the shop: racks of discs, floor to ceiling.",
+        "Flat colour and a confident outline on that loud green. The bars on the wall keep time for her.",
+        "Headphones on, thumb on the phone, guitar slung low. She is on a break, and nobody here needs anything else."
+      ],
+      "posters": [
+        {
+          "title": "Side A",
+          "line": "Headphones on",
+          "tone": "#c8ff4e",
+          "layout": "portrait",
+          "image": ""
+        },
+        {
+          "title": "Behind the Counter",
+          "line": "Racks to the ceiling",
+          "tone": "#141414",
+          "layout": "type",
+          "image": ""
+        },
+        {
+          "title": "Loud Green",
+          "line": "Room 03 / Poster 03",
+          "tone": "#2e5a12",
+          "layout": "split",
+          "image": ""
+        },
+        {
+          "title": "B-Side",
+          "line": "The quiet one at school",
+          "tone": "#f6f4ec",
+          "layout": "bloom",
+          "image": ""
+        },
+        {
+          "title": "Green Room",
+          "line": "On a break",
+          "tone": "#0a3fdb",
+          "layout": "moon",
+          "image": ""
+        },
+        {
+          "title": "Low Slung",
+          "line": "Guitar on, thumb on the phone",
+          "tone": "#e5121e",
+          "layout": "portrait",
+          "image": ""
+        }
+      ],
+      "feature": {
+        "title": "Listening booth",
+        "note": "Press play. The racks keep time.",
+        "items": [
+          "Side A, track 1",
+          "Side A, track 2",
+          "Side B, track 1"
+        ]
+      }
+    }
+  },
+  "reel": [
+    {
+      "title": "LINE WORK",
+      "discipline": "Graphic Design",
+      "image": "photos/ph-07.jpg",
+      "side": "Side A",
+      "length": "02:14",
+      "text": "Motion study for the Line Work specimen. Sample tape: replace with your own film or case study.",
+      "scene": "stamps"
+    },
+    {
+      "title": "LONG VIEW",
+      "discipline": "Photography",
+      "image": "photos/ph-01.jpg",
+      "side": "Side B",
+      "length": "03:40",
+      "text": "A photo essay cut to tape, from gate to touchdown. Sample tape: replace with your own film or case study.",
+      "scene": "air"
+    },
+    {
+      "title": "DEEP WATER",
+      "discipline": "Websites",
+      "image": "photos/ph-02.jpg",
+      "side": "Side C",
+      "length": "01:52",
+      "text": "A launch film for the Tidewater build. Sample tape: replace with your own film or case study.",
+      "scene": "wall"
+    }
+  ],
+  "modelCredits": [
+    {
+      "what": "Race car",
+      "title": "Porsche Kremer Racing 935 K3 Midpoly",
+      "author": "yarzav",
+      "source": "https://sketchfab.com/3d-models/porsche-kremer-racing-935-k3-midpoly-bb289f35c8eb4d898700863212a541eb",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "what": "Airliner",
+      "title": "Boeing 787-9",
+      "author": "Nobilis 2",
+      "source": "https://sketchfab.com/3d-models/boeing-787-9-b6711e2e698e4e469675c1154a50b7a3",
+      "license": "CC BY 4.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "what": "Ocean liner",
+      "title": "RMS Queen Marry",
+      "author": "Mixmamo.studio",
+      "source": "https://sketchfab.com/3d-models/rms-queen-marry-6da64cfd2b004b80a5ac810b2649e2bd",
+      "license": "CC BY 4.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "text": {}
+}
